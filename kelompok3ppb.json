@@ -1,0 +1,20 @@
+{
+    "mahasiswa": [
+        {
+            "id": 1,
+            "name": "Rama Aryasuta Weihan"
+        },
+        {
+            "id": 2,
+            "name": "Lintang Fadhillah Haikal"
+        },
+        {
+            "id": 3,
+            "name": "Muhammad Irhamsyah A"
+        },
+        {
+            "id": 4,
+            "name": "Galih Bayu Prakoso"
+        }
+    ]
+}
